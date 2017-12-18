@@ -1,0 +1,155 @@
+html
+{
+    background-color:  rgb(0,92,159);
+}
+
+body{
+
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+}
+
+img{
+
+    width: 100%;
+}
+
+h1{
+
+    text-align: center;
+    padding-top: 20px;
+    text-transform: unset;
+    color:rgb(238,214,35);
+    
+}
+
+h2
+{
+    color: rgb(0,92,159);
+    text-transform:unset;
+}
+
+#mainn
+{
+text-align: left;
+background-color: white;
+padding: 0cm 1cm 1cm;
+padding-top: 10px;
+    
+}
+
+
+#footer
+{
+    text-align: center;
+    color: rgb(238,214,35) ;
+    font-family: 0;
+}
+
+#menu1{
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.items
+{
+    width: 25%;
+    float: left;
+}
+
+.navbar{
+margin-bottom: 10px;
+    width: 100%;
+}
+
+
+
+a:link, a:visited
+{
+    display: block;
+    
+    font-weight: bold;
+    color: white;
+    background:rgb(238,214,35) ;
+    text-align: center;
+    padding:  17px;
+    text-decoration: unset;
+    text-transform: unset;
+}
+#mail{
+    display: block;
+    width: 200px;
+    font-weight: bold;
+    color: white;
+    background:rgb(238,214,35) ;
+    text-align: center;
+    padding:  17px;
+    text-decoration: unset;
+    text-transform: unset;
+}
+a:hover, a:active
+{
+color: rgb(0,92,159);
+}
+
+#hyperlink
+{
+ display: inline;
+ font-weight: 100;
+ color: blue;
+ background-color: white;
+ padding: 0px;
+ text-decoration: underline;
+ text-transform: none;
+
+}
+
+span
+{
+    text-align: left;
+    color: blue;
+    font-size: 0.5cm;
+}
+
+table
+{
+
+    width: 100%;
+    table-layout: fixed;
+}
+
+td{
+    padding: 5px;
+    vertical-align: top;
+}
+
+iframe
+{
+
+    border: 0;
+    height: 350px;
+    width: 100%;
+}
+
+h3{
+    
+    font-size: 0.70cm;
+        text-align: center;
+        padding-top: 20px;
+        text-transform: unset;
+        color:rgb(238,214,35);
+        
+    }
+
+h4{
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.50cm;
+    text-decoration: rgb(0,92,159);
+text-transform: unset;
+color: rgb(0,92,159);
+}
